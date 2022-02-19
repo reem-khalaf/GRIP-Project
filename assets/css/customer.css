@@ -1,6 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #dadfe7;
+    background-image: url(banking-plattform-overview.jpg);
+    background-size: cover;
 }
 
 /* navbar css starts here  */
